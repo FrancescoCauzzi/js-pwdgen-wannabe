@@ -1,0 +1,16 @@
+
+*{
+  box-sizing: border-box;
+}
+
+header{
+  text-align: center;
+}
+
+header h1{
+  color: #DC143C;
+}
+
+body{
+  background-color: #333;
+}
