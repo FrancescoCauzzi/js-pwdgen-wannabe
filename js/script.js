@@ -14,5 +14,6 @@ const userSurname = prompt('Qual è il tuo cognome?')
 const favColour = prompt('Qual è l tuo colore preferito?')
 
 // document.writeln(userName + userSurname + favColour + 21)
+// document.writeln(`${userName}${userSurname}${favColour}33`)
 
-document.writeln(`${userName}${userSurname}${favColour}33`)
+document.writeln(`${userName}${userSurname}${favColour}`+33)
