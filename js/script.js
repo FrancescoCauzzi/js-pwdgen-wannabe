@@ -11,7 +11,7 @@ Infine scrivi sulla pagina la concatenazione delle variabili + un numero a caso 
 const userName = prompt('Qual è il tuo nome?')
 const userSurname = prompt('Qual è il tuo cognome?')
 
-const favColour = prompt('Qual è l tuo colore preferito?')
+const favColour = prompt('Qual è il tuo colore preferito?')
 
 // document.writeln(userName + userSurname + favColour + 21)
 // document.writeln(`${userName}${userSurname}${favColour}33`)
